@@ -1,0 +1,13 @@
+title: "Foldable Robotics – Project Portfolio"
+description: "Project 1 proposal and Project 2 final robot for Foldable Robotics."
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+# For a user site like sleepingbomb.github.io:
+url: "https://sleepingbomb.github.io"
+baseurl: ""
+
+search_enabled: true
